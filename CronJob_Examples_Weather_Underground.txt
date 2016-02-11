@@ -1,0 +1,3 @@
+0	*	*	*	*	/Users/brennanless/GoogleDrive/BPA_SmartVentilation/Weather_Underground_API/Weather_Underground_API_Current_Conditions_Request.py	/Users/brennanless/anaconda/bin/python
+30	*/6	*	*	*	/Users/brennanless/GoogleDrive/BPA_SmartVentilation/Weather_Underground_API/Weather_Underground_API_Forecast_Request.py	/Users/brennanless/anaconda/bin/python
+	
